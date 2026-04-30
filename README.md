@@ -1,6 +1,4 @@
-# temp-allmaps-leaflet
-
-# Allmaps Leaflet Maps
+# Temporary Allmaps Leaflet Maps
 
 A shared repository for hosting Allmaps Leaflet web maps on GitHub Pages. Each map lives as a standalone HTML file in the root of this repo.
 
